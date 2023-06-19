@@ -1,0 +1,166 @@
+body{
+    background-color: green;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+.box2
+{
+    background: url("image/1.png");
+    position: absolute;
+    height: 200px;
+    width: 325px;
+    left: 40px;
+    top: 448px;
+}
+
+.container{
+    position: absolute;
+width: 325px;
+height: 454px;
+left: 40px;
+top: 448px;
+color: #1D1F25;
+}
+
+.header{
+    position: absolute;
+width: 778px;
+height: 60px;
+left: 40px;
+top: 143px;
+color: #FFFFFF;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 40px;
+line-height: 60px;
+}
+
+.head{
+    position: absolute;
+width: 193px;
+height: 32px;
+left: 36px;
+top: 36px;
+color: #FFBB29;
+
+font-family: 'Clash Display';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 30px;
+}
+
+.search-form{
+    position: absolute;
+width: 448px;
+height: 45px;
+left: 40px;
+top: 243px;
+color: #282C38;
+background: #282C38;
+border-radius: 6px;
+
+}
+
+.wrapper1{
+    position: absolute;
+width: 325px;
+height: 200px;
+left: 40px;
+top: 448px;
+}
+
+.i2{
+    position: absolute;
+    width: 325px;
+    height: 200px;
+    left: 385px;
+    top: 448px;
+}
+
+.i3{
+    position: absolute;
+    width: 325px;
+    height: 200px;
+    left: 730px;
+    top: 448px;
+}
+
+.i4{
+    position: absolute;
+    width: 325px;
+    height: 200px;
+    left: 1075px;
+    top: 448px;
+}
+
+.i1{
+    position: absolute;
+width: 325px;
+height: 200px;
+left: 40px;
+top: 922px;
+}
+
+.i2{
+    position: absolute;
+    width: 325px;
+    height: 200px;
+    left: 385px;
+    top: 922px;
+}
+.i3{
+    position: absolute;
+    width: 325px;
+    height: 200px;
+    left: 730px;
+    top: 922px;
+}
+.i4{
+    position: absolute;
+width: 325px;
+height: 200px;
+left: 1075px;
+top: 922px;
+}
+
+
+.wrapper1{
+    position: absolute;
+width: 325px;
+height: 200px;
+left: 40px;
+top: 448px;
+}
+
+.wrapper2{
+    position: absolute;
+    width: 325px;
+    height: 200px;
+    left: 385px;
+    top: 448px;
+}
+
+.wrapper3{
+    position: absolute;
+width: 325px;
+height: 200px;
+left: 730px;
+top: 448px;
+}
+
+.wrapper4{
+    position: absolute;
+width: 325px;
+height: 200px;
+left: 1075px;
+top: 448px;
+}
